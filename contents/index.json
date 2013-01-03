@@ -1,0 +1,18 @@
+{
+    "education": [
+        {
+            "title": "Ingeniería Técnica en Informática de Gestión",
+            "starting_date": "OCT 2004",
+            "obtained_date": "FEB 2008",
+            "center": "Universidad Complutense de Madrid",
+            "location": "Madrid, España"
+        },
+        {
+        	"title": "MCTS: .Net Framework 3.5 ASP.NET (MCP ID: 6867326)",
+            "starting_date": "MAY 2008",
+            "obtained_date": "ABR 2009",
+            "center": "",
+            "location": "Dublin, Ireland"
+        }
+    ]
+}

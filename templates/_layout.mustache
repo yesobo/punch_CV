@@ -1,0 +1,20 @@
+{{> header }}
+
+		<div role="main">
+            <p>{{{intro}}}</p>
+            <div id="education">
+                {{#education}}
+                    <div class="title">
+                    	<h3>{{title}}</h3>
+                        <ul>
+                            <li><b>Starting date</b> - {{starting_date}}</li>
+                            <li><b>Obtained at</b> - {{obtained_date}}</li>
+                            <li><b>Center</b> - {{{center}}}</li>
+                            <li><b>Location</b> - {{{location}}}</li>
+                        </ul>
+                    </div>
+                {{/education}}    
+            </div>    
+        </div>
+{{> footer }}
+

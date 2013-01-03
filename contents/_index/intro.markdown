@@ -1,0 +1,1 @@
+![](http://www.hispasec.com/img/double_quotes_top.png)Soy un desarrollador web inmerso en una búsqueda constante de las herramientas y conocimientos que me permitan escribir las aplicaciones más bonitas y útiles por fuera y limpias, mantenibles y testeables por dentro.![](http://www.hispasec.com/img/double_quotes_bottom.png)
